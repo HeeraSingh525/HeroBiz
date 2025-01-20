@@ -50,7 +50,6 @@ To host this project on GitHub Pages:
 1. Ensure the project is pushed to a GitHub repository.
 2. Go to the repository settings.
 3. Under the **Pages** section, select the branch (e.g., `main`) and directory (`/root`).
-4. Save the settings, and your site will be live at `https://<your-username>.github.io/<repository-name>`.
 
 ## Demo
 
