@@ -47,11 +47,3 @@ Under the Pages section, select the branch (e.g., main) and directory (/root).
 Save the settings, and your site will be live at https://<your-username>.github.io/<repository-name>.
 Demo
 You can view a live demo of this project at: Live Demo
-
-Technologies Used
-HTML5
-CSS3
-JavaScript
-Bootstrap
-AOS (Animate on Scroll)
-Swiper.js
