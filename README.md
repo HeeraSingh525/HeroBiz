@@ -1,7 +1,3 @@
-Based on the structure of your project, here’s a suitable `README.md` file for your HTML project hosted on GitHub:
-
----
-
 # HeroBiz
 
 HeroBiz is a responsive and modern multipurpose website built using HTML, CSS, and JavaScript. This project demonstrates various web design techniques, layouts, and components suitable for corporate, portfolio, and blog websites.
@@ -58,7 +54,7 @@ To host this project on GitHub Pages:
 
 ## Demo
 
-You can view a live demo of this project at: [Live Demo](https://<your-username>.github.io/HeroBiz/)
+You can view a live demo of this project at: [Live Demo](https://heerasingh525.github.io/HeroBiz/HeroBiz/index.html)
 
 ## Technologies Used
 
@@ -69,10 +65,3 @@ You can view a live demo of this project at: [Live Demo](https://<your-username>
 - **AOS (Animate on Scroll)**
 - **Swiper.js**
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you’d like any modifications or additional sections in the README!
